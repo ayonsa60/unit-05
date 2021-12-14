@@ -12,6 +12,7 @@ body {
     white-space: pre-wrap;
     height: 80px;
     border-top: 1px solid white;
+    margin-left: 3px;
 }
 .past {
     background-color: #d3d3d3;
