@@ -1,3 +1,4 @@
+
 var currentDate = moment().format('LLLL');
 $('#date').append(currentDate);
 
